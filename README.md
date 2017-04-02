@@ -10,8 +10,10 @@ every fragment has length at least 2.
 
 Example input 1:
 O draconia;conian devil! Oh la;h lame sa;saint!
+
 Example output 1:
 O draconian devil! Oh lame saint!
+
 Example input 2:
 m quaerat voluptatem.;pora incidunt ut labore et d;, consectetur, adipisci
 velit;olore magnam aliqua;idunt ut labore et dolore magn;uptatem.;i dolorem
@@ -22,6 +24,7 @@ ipsum quia dolor sit amet;ctetur, adipisci velit, sed quia non numq;unt ut
 labore et dolore magnam aliquam qu;dipisci velit, sed quia non numqua;us
 modi tempora incid;Neque porro quisquam est, qui dolorem i;uam eius modi
 tem;pora inc;am al
+
 Example output 2:
 Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
 consectetur, adipisci velit, sed quia non numquam eius modi tempora
